@@ -1,0 +1,14 @@
+{
+  "name": "taro-history",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:baozouai/taro-history.git",
+  "author": "baozouai <baozouai@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@tarojs/taro": "^3.4.5"
+  }
+}
