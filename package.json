@@ -7,6 +7,10 @@
   "files": [
     "dist"
   ],
+  "keywords": [
+    "Taro3",
+    "taro-history"
+  ],
   "repository": "git@github.com:baozouai/taro-history.git",
   "author": "baozouai <baozouai@gmail.com>",
   "license": "MIT",
