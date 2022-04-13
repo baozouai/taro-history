@@ -209,7 +209,7 @@ import { getShortPath } from 'taro-history'
  */
 console.log(getShortPath('pages/main/invite/index')) // xxx
 ```
-7. `getCurrentShortPath`, 获取当前页短路径
+6. `getCurrentShortPath`, 获取当前页短路径
 ```ts
 import { getCurrentShortPath } from 'taro-history'
 // 当前页 pages/xxx/index
