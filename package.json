@@ -9,9 +9,14 @@
   ],
   "keywords": [
     "Taro3",
-    "taro-history"
+    "taro-history",
+    "typescript"
   ],
+  "homepage": "https://github.com/baozouai/taro-history",
   "repository": "git@github.com:baozouai/taro-history.git",
+  "bugs": {
+    "url": "https://github.com/baozouai/taro-history/issues"
+},
   "author": "baozouai <baozouai@gmail.com>",
   "license": "MIT",
   "scripts": {
